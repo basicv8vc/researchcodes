@@ -1,0 +1,24 @@
+{
+    "docs": [
+        {
+            "location": "/", 
+            "text": "Welcome to \"Research Codes\"\n\n\n\n\nACL\n\n\nAAAI\n\n\nICML\n\n\nIJCAI\n\n\nNIPS\n\n\nSIGKDD\n\n\nSIGIR\n\n\nSIGMOD\n\n\nVLDB\n\n\nICDE\n\n\nCVPR\n\n\nICCV\n\n\n\n\nACL\n\n\n\n\n2015\n\n\n2014", 
+            "title": "Talk is cheap, show me the code."
+        }, 
+        {
+            "location": "/#welcome-to-research-codes", 
+            "text": "ACL  AAAI  ICML  IJCAI  NIPS  SIGKDD  SIGIR  SIGMOD  VLDB  ICDE  CVPR  ICCV", 
+            "title": "Welcome to \"Research Codes\""
+        }, 
+        {
+            "location": "/#acl", 
+            "text": "2015  2014", 
+            "title": "ACL"
+        }, 
+        {
+            "location": "/about/", 
+            "text": ":)", 
+            "title": "About"
+        }
+    ]
+}
