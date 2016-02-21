@@ -1,0 +1,10 @@
+site_name: Research Codes
+site_url: http://researchcodes.org
+site_description: Source codes of papers published in computer science conferences.
+site_author: basicv8vc
+repo_url: https://github.com/basicv8vc/researchcodes
+theme: flatly
+#google_analytics: ['UA-510626-7', 'auto']
+pages:
+  - "Talk is cheap, show me the code.": "index.md"
+  - "About": "about.md"
