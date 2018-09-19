@@ -2,22 +2,8 @@
 
 Computer science research papers and their corresponding source codes.
 
-- [ACL](#acl)
-- [AAAI](#aaai)
-- [ICML](#icml)
-- [IJCAI](#ijcai)
-- [NIPS](#nips)
-- [SIGKDD](#sigkdd)
-- [SIGIR](#sigir)
-- [SIGMOD](#sigmod)
-- [VLDB](#vldb)
-- [ICDE](#icde)
-- [CVPR](#cvpr)
-- [ICCV](#iccv)
-- [NAACL](#naacl)
 
-
-
+## NLP
 
 ACL
 * [2015](./AI/ACL/2015/ACL2015.md)
